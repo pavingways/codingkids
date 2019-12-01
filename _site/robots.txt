@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://github.com/pavingways/codingkids/sitemap.xml
+Sitemap: http://www.pavingways.com/codingkids/sitemap.xml
