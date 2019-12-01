@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://github.com/pavingways/codingkids/feed.xml" rel="self" type="application/atom+xml" /><link href="https://github.com/pavingways/codingkids/" rel="alternate" type="text/html" /><updated>2019-12-02T00:39:04+01:00</updated><id>https://github.com/pavingways/codingkids/feed.xml</id><title type="html">Feeling Responsive</title><subtitle>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</subtitle><author><name>phlow</name></author><entry><title type="html">Play Audio &amp;amp; Video with media­element.js</title><link href="https://github.com/pavingways/codingkids/design/mediaelement_js/" rel="alternate" type="text/html" title="Play Audio &amp; Video with media&amp;shy;element.js" /><published>2015-10-15T00:00:00+02:00</published><updated>2015-10-15T00:00:00+02:00</updated><id>https://github.com/pavingways/codingkids/design/mediaelement_js</id><content type="html" xml:base="https://github.com/pavingways/codingkids/design/mediaelement_js/">&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://www.pavingways.com/codingkids/feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.pavingways.com/codingkids/" rel="alternate" type="text/html" /><updated>2019-12-02T00:45:12+01:00</updated><id>http://www.pavingways.com/codingkids/feed.xml</id><title type="html">Feeling Responsive</title><subtitle>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</subtitle><author><name>phlow</name></author><entry><title type="html">Play Audio &amp;amp; Video with media­element.js</title><link href="http://www.pavingways.com/codingkids/design/mediaelement_js/" rel="alternate" type="text/html" title="Play Audio &amp; Video with media&amp;shy;element.js" /><published>2015-10-15T00:00:00+02:00</published><updated>2015-10-15T00:00:00+02:00</updated><id>http://www.pavingways.com/codingkids/design/mediaelement_js</id><content type="html" xml:base="http://www.pavingways.com/codingkids/design/mediaelement_js/">&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mediaplayer: true
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -25,7 +25,7 @@
 
 &lt;audio src=&quot;http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
 
-&lt;p class=&quot;t30 button radius&quot;&gt;&lt;a href=&quot;https://archive.org/details/music_from_all_around_the_world&quot;&gt;Download Compilation ›&lt;/a&gt;&lt;/p&gt;</content><author><name>Phlow</name><uri>http://phlow.de/</uri></author><category term="audio player" /><category term="video player" /><category term="streaming music" /><summary type="html">mediaelement.js is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to true. mediaplayer: true To use the player just use some HTML5-magic like… &amp;lt;audio src=&quot;http://path-to-file.com/music.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&amp;gt;&amp;lt;/audio&amp;gt; All possible functions and how to use mediaelement.js is well-documented on the players website. »Music From All Around The World« »Music From All Around The World« is a compilation curated by Jeannette Corneille and Moritz “mo.” Sauer for Phlow-Magazine.com. Cover Artwork designed by Jeannette Corneille. All tracks were released under a creative commons licence. B-Ju - »Philly Run« Comfort Fit - »Freeze The Cut« The Black Atlantic - »Dandelion« Download Compilation ›</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://github.com/pavingways/codingkids/images/mediaplayer_js-title.jpg" /><media:content medium="image" url="https://github.com/pavingways/codingkids/images/mediaplayer_js-title.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Wonderful Typography</title><link href="https://github.com/pavingways/codingkids/design/typography/typography/" rel="alternate" type="text/html" title="Wonderful Typography" /><published>2015-08-16T00:00:00+02:00</published><updated>2015-08-16T00:00:00+02:00</updated><id>https://github.com/pavingways/codingkids/design/typography/typography</id><content type="html" xml:base="https://github.com/pavingways/codingkids/design/typography/typography/">&lt;!--more--&gt;
+&lt;p class=&quot;t30 button radius&quot;&gt;&lt;a href=&quot;https://archive.org/details/music_from_all_around_the_world&quot;&gt;Download Compilation ›&lt;/a&gt;&lt;/p&gt;</content><author><name>Phlow</name><uri>http://phlow.de/</uri></author><category term="audio player" /><category term="video player" /><category term="streaming music" /><summary type="html">mediaelement.js is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to true. mediaplayer: true To use the player just use some HTML5-magic like… &amp;lt;audio src=&quot;http://path-to-file.com/music.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&amp;gt;&amp;lt;/audio&amp;gt; All possible functions and how to use mediaelement.js is well-documented on the players website. »Music From All Around The World« »Music From All Around The World« is a compilation curated by Jeannette Corneille and Moritz “mo.” Sauer for Phlow-Magazine.com. Cover Artwork designed by Jeannette Corneille. All tracks were released under a creative commons licence. B-Ju - »Philly Run« Comfort Fit - »Freeze The Cut« The Black Atlantic - »Dandelion« Download Compilation ›</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://www.pavingways.com/codingkids/images/mediaplayer_js-title.jpg" /><media:content medium="image" url="http://www.pavingways.com/codingkids/images/mediaplayer_js-title.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Wonderful Typography</title><link href="http://www.pavingways.com/codingkids/design/typography/typography/" rel="alternate" type="text/html" title="Wonderful Typography" /><published>2015-08-16T00:00:00+02:00</published><updated>2015-08-16T00:00:00+02:00</updated><id>http://www.pavingways.com/codingkids/design/typography/typography</id><content type="html" xml:base="http://www.pavingways.com/codingkids/design/typography/typography/">&lt;!--more--&gt;
 
 &lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
@@ -461,10 +461,10 @@ element&lt;/td&gt;
       &lt;p&gt;Kramdown has an excellent documentation of all its features. Check out, on how to &lt;a href=&quot;http://kramdown.gettalong.org/syntax.html#footnotes&quot;&gt;footnotes&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Phlow</name><uri>http://phlow.de/</uri></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://github.com/pavingways/codingkids/images/homepage_typography-thumb.jpg" /><media:content medium="image" url="https://github.com/pavingways/codingkids/images/homepage_typography-thumb.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Now with Comments!</title><link href="https://github.com/pavingways/codingkids/design/comments/" rel="alternate" type="text/html" title="Now with Comments!" /><published>2015-08-15T00:00:00+02:00</published><updated>2015-08-15T00:00:00+02:00</updated><id>https://github.com/pavingways/codingkids/design/comments</id><content type="html" xml:base="https://github.com/pavingways/codingkids/design/comments/">&lt;p&gt;If you want to use Disqus-Comments with &lt;em&gt;Feeling Responsive&lt;/em&gt;, just open &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt; and add your &lt;code class=&quot;highlighter-rouge&quot;&gt;disqus_shortname&lt;/code&gt;. &lt;a href=&quot;https://disqus.com/websites/&quot;&gt;More on how to use Disqus ›&lt;/a&gt;
+&lt;/div&gt;</content><author><name>Phlow</name><uri>http://phlow.de/</uri></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://www.pavingways.com/codingkids/images/homepage_typography-thumb.jpg" /><media:content medium="image" url="http://www.pavingways.com/codingkids/images/homepage_typography-thumb.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Now with Comments!</title><link href="http://www.pavingways.com/codingkids/design/comments/" rel="alternate" type="text/html" title="Now with Comments!" /><published>2015-08-15T00:00:00+02:00</published><updated>2015-08-15T00:00:00+02:00</updated><id>http://www.pavingways.com/codingkids/design/comments</id><content type="html" xml:base="http://www.pavingways.com/codingkids/design/comments/">&lt;p&gt;If you want to use Disqus-Comments with &lt;em&gt;Feeling Responsive&lt;/em&gt;, just open &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt; and add your &lt;code class=&quot;highlighter-rouge&quot;&gt;disqus_shortname&lt;/code&gt;. &lt;a href=&quot;https://disqus.com/websites/&quot;&gt;More on how to use Disqus ›&lt;/a&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 
-&lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code class=&quot;highlighter-rouge&quot;&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code class=&quot;highlighter-rouge&quot;&gt;layout: page&lt;/code&gt;.&lt;/p&gt;</content><author><name>Phlow</name><uri>http://phlow.de/</uri></author><summary type="html">If you want to use Disqus-Comments with Feeling Responsive, just open config.yml and add your disqus_shortname. More on how to use Disqus ›</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://github.com/pavingways/codingkids/%7B%22thumb%22=%3E%22typewriter-thumb.jpg%22,%20%22homepage%22=%3E%22homepage_typewriter.jpg%22%7D" /><media:content medium="image" url="https://github.com/pavingways/codingkids/%7B%22thumb%22=%3E%22typewriter-thumb.jpg%22,%20%22homepage%22=%3E%22homepage_typewriter.jpg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">No Header</title><link href="https://github.com/pavingways/codingkids/design/no-header/" rel="alternate" type="text/html" title="No Header" /><published>2015-08-11T00:00:00+02:00</published><updated>2015-08-11T00:00:00+02:00</updated><id>https://github.com/pavingways/codingkids/design/no-header</id><content type="html" xml:base="https://github.com/pavingways/codingkids/design/no-header/">&lt;p&gt;&lt;em&gt;Silence is beautiful.&lt;/em&gt; Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: &lt;em&gt;Feeling Responsive&lt;/em&gt; got you covered. Just say &lt;em&gt;no&lt;/em&gt; like this:
+&lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code class=&quot;highlighter-rouge&quot;&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code class=&quot;highlighter-rouge&quot;&gt;layout: page&lt;/code&gt;.&lt;/p&gt;</content><author><name>Phlow</name><uri>http://phlow.de/</uri></author><summary type="html">If you want to use Disqus-Comments with Feeling Responsive, just open config.yml and add your disqus_shortname. More on how to use Disqus ›</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://www.pavingways.com/codingkids/%7B%22thumb%22=%3E%22typewriter-thumb.jpg%22,%20%22homepage%22=%3E%22homepage_typewriter.jpg%22%7D" /><media:content medium="image" url="http://www.pavingways.com/codingkids/%7B%22thumb%22=%3E%22typewriter-thumb.jpg%22,%20%22homepage%22=%3E%22homepage_typewriter.jpg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">No Header</title><link href="http://www.pavingways.com/codingkids/design/no-header/" rel="alternate" type="text/html" title="No Header" /><published>2015-08-11T00:00:00+02:00</published><updated>2015-08-11T00:00:00+02:00</updated><id>http://www.pavingways.com/codingkids/design/no-header</id><content type="html" xml:base="http://www.pavingways.com/codingkids/design/no-header/">&lt;p&gt;&lt;em&gt;Silence is beautiful.&lt;/em&gt; Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: &lt;em&gt;Feeling Responsive&lt;/em&gt; got you covered. Just say &lt;em&gt;no&lt;/em&gt; like this:
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header: no
@@ -477,23 +477,23 @@ element&lt;/td&gt;
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
-&lt;/ul&gt;</content><author><name>Phlow</name><uri>http://phlow.de/</uri></author><category term="design" /><category term="background color" /><category term="header" /><summary type="html">Silence is beautiful. Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: Feeling Responsive got you covered. Just say no like this:</summary></entry><entry><title type="html">No Header but Article Image</title><link href="https://github.com/pavingways/codingkids/design/no-header-but-image/" rel="alternate" type="text/html" title="No Header but Article Image" /><published>2015-03-12T00:00:00+01:00</published><updated>2015-03-12T00:00:00+01:00</updated><id>https://github.com/pavingways/codingkids/design/no-header-but-image</id><content type="html" xml:base="https://github.com/pavingways/codingkids/design/no-header-but-image/">&lt;p&gt;First turn of the header with &lt;code class=&quot;highlighter-rouge&quot;&gt;header: no&lt;/code&gt;. Then add an image to with the following code. The caption is optional.
+&lt;/ul&gt;</content><author><name>Phlow</name><uri>http://phlow.de/</uri></author><category term="design" /><category term="background color" /><category term="header" /><summary type="html">Silence is beautiful. Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: Feeling Responsive got you covered. Just say no like this:</summary></entry><entry><title type="html">No Header but Article Image</title><link href="http://www.pavingways.com/codingkids/design/no-header-but-image/" rel="alternate" type="text/html" title="No Header but Article Image" /><published>2015-03-12T00:00:00+01:00</published><updated>2015-03-12T00:00:00+01:00</updated><id>http://www.pavingways.com/codingkids/design/no-header-but-image</id><content type="html" xml:base="http://www.pavingways.com/codingkids/design/no-header-but-image/">&lt;p&gt;First turn of the header with &lt;code class=&quot;highlighter-rouge&quot;&gt;header: no&lt;/code&gt;. Then add an image to with the following code. The caption is optional.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header: no
@@ -510,23 +510,23 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
-&lt;/ul&gt;</content><author><name>Phlow</name><uri>http://phlow.de/</uri></author><category term="design" /><category term="background color" /><category term="header" /><summary type="html">First turn of the header with header: no. Then add an image to with the following code. The caption is optional.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://github.com/pavingways/codingkids/images/unsplash_eagle.jpg" /><media:content medium="image" url="https://github.com/pavingways/codingkids/images/unsplash_eagle.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Header With Text</title><link href="https://github.com/pavingways/codingkids/design/header-with-text/" rel="alternate" type="text/html" title="Header With Text" /><published>2015-02-10T00:00:00+01:00</published><updated>2015-02-10T00:00:00+01:00</updated><id>https://github.com/pavingways/codingkids/design/header-with-text</id><content type="html" xml:base="https://github.com/pavingways/codingkids/design/header-with-text/">&lt;!--more--&gt;
+&lt;/ul&gt;</content><author><name>Phlow</name><uri>http://phlow.de/</uri></author><category term="design" /><category term="background color" /><category term="header" /><summary type="html">First turn of the header with header: no. Then add an image to with the following code. The caption is optional.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://www.pavingways.com/codingkids/images/unsplash_eagle.jpg" /><media:content medium="image" url="http://www.pavingways.com/codingkids/images/unsplash_eagle.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Header With Text</title><link href="http://www.pavingways.com/codingkids/design/header-with-text/" rel="alternate" type="text/html" title="Header With Text" /><published>2015-02-10T00:00:00+01:00</published><updated>2015-02-10T00:00:00+01:00</updated><id>http://www.pavingways.com/codingkids/design/header-with-text</id><content type="html" xml:base="http://www.pavingways.com/codingkids/design/header-with-text/">&lt;!--more--&gt;
 
 &lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
 
@@ -544,23 +544,23 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
-&lt;/ul&gt;</content><author><name>Phlow</name><uri>http://phlow.de/</uri></author><category term="design" /><category term="background color" /><category term="header" /><summary type="html"></summary></entry><entry><title type="html">Header With Logo Only</title><link href="https://github.com/pavingways/codingkids/design/header-logo-only/" rel="alternate" type="text/html" title="Header With Logo Only" /><published>2014-10-09T00:00:00+02:00</published><updated>2014-10-09T00:00:00+02:00</updated><id>https://github.com/pavingways/codingkids/design/header-logo-only</id><content type="html" xml:base="https://github.com/pavingways/codingkids/design/header-logo-only/">&lt;p&gt;No front matter code needed.
+&lt;/ul&gt;</content><author><name>Phlow</name><uri>http://phlow.de/</uri></author><category term="design" /><category term="background color" /><category term="header" /><summary type="html"></summary></entry><entry><title type="html">Header With Logo Only</title><link href="http://www.pavingways.com/codingkids/design/header-logo-only/" rel="alternate" type="text/html" title="Header With Logo Only" /><published>2014-10-09T00:00:00+02:00</published><updated>2014-10-09T00:00:00+02:00</updated><id>http://www.pavingways.com/codingkids/design/header-logo-only</id><content type="html" xml:base="http://www.pavingways.com/codingkids/design/header-logo-only/">&lt;p&gt;No front matter code needed.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
@@ -570,23 +570,23 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
-&lt;/ul&gt;</content><author><name>Phlow</name><uri>http://phlow.de/</uri></author><category term="design" /><category term="background color" /><category term="header" /><summary type="html">No front matter code needed.</summary></entry><entry><title type="html">Header Image With Background Color</title><link href="https://github.com/pavingways/codingkids/design/header-image-color/" rel="alternate" type="text/html" title="Header Image With Background Color" /><published>2014-10-09T00:00:00+02:00</published><updated>2014-10-09T00:00:00+02:00</updated><id>https://github.com/pavingways/codingkids/design/header-image-color</id><content type="html" xml:base="https://github.com/pavingways/codingkids/design/header-image-color/">&lt;p&gt;It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the &lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-image-pattern/&quot;&gt;example with a background pattern&lt;/a&gt;.
+&lt;/ul&gt;</content><author><name>Phlow</name><uri>http://phlow.de/</uri></author><category term="design" /><category term="background color" /><category term="header" /><summary type="html">No front matter code needed.</summary></entry><entry><title type="html">Header Image With Background Color</title><link href="http://www.pavingways.com/codingkids/design/header-image-color/" rel="alternate" type="text/html" title="Header Image With Background Color" /><published>2014-10-09T00:00:00+02:00</published><updated>2014-10-09T00:00:00+02:00</updated><id>http://www.pavingways.com/codingkids/design/header-image-color</id><content type="html" xml:base="http://www.pavingways.com/codingkids/design/header-image-color/">&lt;p&gt;It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the &lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-image-pattern/&quot;&gt;example with a background pattern&lt;/a&gt;.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
@@ -608,23 +608,23 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
-&lt;/ul&gt;</content><author><name>Phlow</name><uri>http://phlow.de/</uri></author><category term="design" /><category term="background color" /><category term="header" /><summary type="html">It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the example with a background pattern.</summary></entry><entry><title type="html">Header with a Full-Width-Image</title><link href="https://github.com/pavingways/codingkids/design/header-full-width-image/" rel="alternate" type="text/html" title="Header with a Full-Width-Image" /><published>2014-10-09T00:00:00+02:00</published><updated>2014-10-09T00:00:00+02:00</updated><id>https://github.com/pavingways/codingkids/design/header-full-width-image</id><content type="html" xml:base="https://github.com/pavingways/codingkids/design/header-full-width-image/">&lt;p&gt;It’s so easy to do. Just define in front matter your image.
+&lt;/ul&gt;</content><author><name>Phlow</name><uri>http://phlow.de/</uri></author><category term="design" /><category term="background color" /><category term="header" /><summary type="html">It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the example with a background pattern.</summary></entry><entry><title type="html">Header with a Full-Width-Image</title><link href="http://www.pavingways.com/codingkids/design/header-full-width-image/" rel="alternate" type="text/html" title="Header with a Full-Width-Image" /><published>2014-10-09T00:00:00+02:00</published><updated>2014-10-09T00:00:00+02:00</updated><id>http://www.pavingways.com/codingkids/design/header-full-width-image</id><content type="html" xml:base="http://www.pavingways.com/codingkids/design/header-full-width-image/">&lt;p&gt;It’s so easy to do. Just define in front matter your image.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
@@ -642,23 +642,23 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
-&lt;/ul&gt;</content><author><name>Phlow</name><uri>http://phlow.de/</uri></author><category term="design" /><category term="background color" /><category term="header" /><summary type="html">It’s so easy to do. Just define in front matter your image.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://github.com/pavingways/codingkids/%7B%22thumb%22=%3E%22unsplash_brooklyn-bridge-thumb.jpg%22%7D" /><media:content medium="image" url="https://github.com/pavingways/codingkids/%7B%22thumb%22=%3E%22unsplash_brooklyn-bridge-thumb.jpg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Header Image With Pattern</title><link href="https://github.com/pavingways/codingkids/design/header-image-pattern/" rel="alternate" type="text/html" title="Header Image With Pattern" /><published>2014-10-08T00:00:00+02:00</published><updated>2014-10-08T00:00:00+02:00</updated><id>https://github.com/pavingways/codingkids/design/header-image-pattern</id><content type="html" xml:base="https://github.com/pavingways/codingkids/design/header-image-pattern/">&lt;p&gt;It’s so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the &lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-image-color/&quot;&gt;example with a background color&lt;/a&gt;.
+&lt;/ul&gt;</content><author><name>Phlow</name><uri>http://phlow.de/</uri></author><category term="design" /><category term="background color" /><category term="header" /><summary type="html">It’s so easy to do. Just define in front matter your image.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://www.pavingways.com/codingkids/%7B%22thumb%22=%3E%22unsplash_brooklyn-bridge-thumb.jpg%22%7D" /><media:content medium="image" url="http://www.pavingways.com/codingkids/%7B%22thumb%22=%3E%22unsplash_brooklyn-bridge-thumb.jpg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Header Image With Pattern</title><link href="http://www.pavingways.com/codingkids/design/header-image-pattern/" rel="alternate" type="text/html" title="Header Image With Pattern" /><published>2014-10-08T00:00:00+02:00</published><updated>2014-10-08T00:00:00+02:00</updated><id>http://www.pavingways.com/codingkids/design/header-image-pattern</id><content type="html" xml:base="http://www.pavingways.com/codingkids/design/header-image-pattern/">&lt;p&gt;It’s so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the &lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-image-color/&quot;&gt;example with a background color&lt;/a&gt;.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
@@ -677,19 +677,19 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://github.com/pavingways/codingkids/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.pavingways.com/codingkids/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
